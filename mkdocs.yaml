@@ -1,4 +1,4 @@
-site_name: Test
+site_name: Projekt LF8: Angebotserstellung
 nav:
  - "Startseite": index.md
  - "Nutzfalldiagramm": Nutzfalldiagramm.pdf
