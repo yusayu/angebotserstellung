@@ -1,6 +1,7 @@
 # Angebotserstellung
 
 Benötigter Input:
+
 * Shopping liste
 * Gebäudeplan
 
