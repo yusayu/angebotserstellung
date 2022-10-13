@@ -1,6 +1,9 @@
 site_name: Projekt LF8 - Angebotserstellung
 nav:
  - "Startseite": index.md
- - "Nutzfalldiagramm": Nutzfalldiagramm.pdf
- - "Sequenzdiagramm": Sequenzdiagramm.pdf
+ - "Aufgabenstellung": Aufgabenstellung.md
+ - "Phase 1 - Übersicht": phase1.md
+ - "Phase 1 - Nutzfalldiagramm": Nutzfalldiagramm.pdf
+ - "Phase 3 - Sequenzdiagramm": Sequenzdiagramm.pdf
+ - "Phase 5 - Daten": phase5.md
 theme: material
