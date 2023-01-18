@@ -6,5 +6,6 @@ nav:
  - "Phase 1 - Anwendungsfalldiagramm": Anwendungsfalldiagramm.pdf
  - "Phase 3 - Sequenzdiagramm": Sequenzdiagramm.pdf
  - "Phase 5 - Daten": phase5.md
+ - "Phase 7 - IT-Sicherheitskonzept": phase7.md
  - "Phase 8 - Datenmodell": Datenmodell.png
 theme: material
