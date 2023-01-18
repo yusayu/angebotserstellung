@@ -3,7 +3,8 @@ nav:
  - "Startseite": index.md
  - "Aufgabenstellung": Aufgabenstellung.md
  - "Phase 1 - Übersicht": phase1.md
- - "Phase 1 - Nutzfalldiagramm": Nutzfalldiagramm.pdf
+ - "Phase 1 - Anwendungsfalldiagramm": Anwendungsfalldiagramm.pdf
  - "Phase 3 - Sequenzdiagramm": Sequenzdiagramm.pdf
  - "Phase 5 - Daten": phase5.md
+ - "Phase 8 - Datenmodell": Datenmodell.png
 theme: material

@@ -1,15 +1,15 @@
 # Phase 5
 
-| Daten               | Typ                            | Software                 | Metadaten | Lesen       | Schreiben |
-|---------------------|--------------------------------|--------------------------|-----------|-------------|-----------|
-| Kundenanforderungen | Textformat (.txt, .docx, etc.) | Microsoft Word           | *1        | intern alle | V         |
-| Gebäudeplan         | CAD (.dxf)                     | usBIM Editor (kostenlos) | *2        | G, A        | G         |
-| Raumplan            | BIM (.ifcXML)                  | usBIM Editor (kostenlos) | *3        | A           | A         |
-| Komponentenliste    | Datenbank                      | SQL Server               | -         | A, E        | A         |
-| Gesamtnetzwerkplan  | .pdf                           | drawio                   | *4        | A           | A         |
-| Lagerbestand        | Datenbank                      | SQL Server               | -         | A, E        | E         |
-| Kundendaten         | Datenbank                      | SQL Server               | -         | V           | V         |
-| Angebot             | .pdf                           | Microsoft Word           | *4        | A, V        | A         |
+| Daten               | Typ(In)       |  Typ(Out)               | Software                 | Metadaten | Lesen       | Schreiben |
+|---------------------|---------------|-----------------|--------------------------|-----------|-------------|-----------|
+| Rahmenbedingungen   | Textformat (.txt, .docx, etc.) | | Microsoft Word           | *1        | intern alle | V         |
+| Gebäudeplan         | CAD, Bilddaten, Skizzen 	 | CAD (.dxf) | usBIM Editor (kostenlos) | *2        | G, A        | G         |
+| Raumplan            | CAD               | BIM (.ifcXML)  | usBIM Editor (kostenlos) | *3        | A           | A         |
+| Komponentenliste    | CAD                   | Datenbank  | SQL Server               | -         | A, E        | A         |
+| Gesamtnetzwerkplan  |                          | .pdf | drawio                   | *4        | A           | A         |
+| Lagerbestand        | Datenbank                    |  | SQL Server               | -         | A, E        | E         |
+| Kundendaten         | Datenbank                    |  | SQL Server               | -         | V           | V         |
+| Angebot             | .pdf                         |  | Microsoft Word           | *4        | A, V        | A         |
 
 __V__: Vertrieb
 
