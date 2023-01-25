@@ -1,1 +1,1 @@
-![Datenmodell](/Datenmodell.png)
+![Datenmodell](Datenmodell.png)
