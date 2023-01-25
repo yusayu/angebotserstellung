@@ -13,4 +13,4 @@ INSERT zum Hinzufügen von Datensätzen.
 SELECT zum Auswählen/Anzeigen von Daten.
 Unter Anmeldungen->Neue Anmeldung eine neue Anmeldung für weitere Nutzer hinzufügen.
 
-![Schnittstelle][Schnittstelle.pdf]
+![Schnittstelle](Schnittstelle.png)
