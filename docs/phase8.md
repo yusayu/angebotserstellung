@@ -1,1 +1,0 @@
-![Schnittstelle](/Schnittstelle.pdf)

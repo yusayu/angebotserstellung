@@ -12,3 +12,5 @@ Benutzergruppeneinteilung und -zugriff kann über Datenbankrollen realisiert wer
 INSERT zum Hinzufügen von Datensätzen.
 SELECT zum Auswählen/Anzeigen von Daten.
 Unter Anmeldungen->Neue Anmeldung eine neue Anmeldung für weitere Nutzer hinzufügen.
+
+![Schnittstelle][Schnittstelle.pdf]

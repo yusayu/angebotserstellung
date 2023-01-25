@@ -9,4 +9,5 @@ nav:
  - "Phase 6 - Nutzer": phase6.md
  - "Phase 7 - IT-Sicherheitskonzept": phase7.md
  - "Phase 8 - Datenmodell": Datenmodell.png
+ - "Phase 9 - Datenimplementierung": datenbank.sql
 theme: material
