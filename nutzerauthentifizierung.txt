@@ -1,6 +1,7 @@
 -> LDAP zur Anmeldung
 -> kann von MySQL schon benutzt werden
--> Gebäudeplanmensch authentifiziert sich bei Benutzung der Website
--> Angebotserstellungsmensch ebenfalls
+-> Gebäudeplaner authentifiziert sich bei Benutzung der Website
+-> Projektleiter ebenfalls
 -> Selbe zentrale Loginverwaltung
--> Frontend schickt Datenbankanfragen an Backend (je nach Rollen darf editiert etc. werden)
+-> Backend schickt SQL-Abfragen an die Datenbank
+-> LDAP kann mit FastAPI Backend schon benutzt werden
