@@ -10,4 +10,5 @@ nav:
  - "Phase 7 - IT-Sicherheitskonzept": phase7.md
  - "Phase 8 - Datenmodell": phase8.md
  - "Phase 9 - Datenimplementierung": datenbank.sql
+ - "Phase 10 - Vorgehensmodelle": phase10.md
 theme: material
