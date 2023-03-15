@@ -1,4 +1,4 @@
-!["Softwarelebenszyklus"](.softwarelebenszyklus.png)
+!["Softwarelebenszyklus"](softwarelebenszyklus.png)
 
 
 # Software-Lebenszyklus
