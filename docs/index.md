@@ -4,8 +4,7 @@ Erstellung einer Software zur Angebotserstellung für IT-Systeme
 
 __Teilnehmer__:
 
-* Jamie Nowitzki
-* Jakob Gerber
-* Mehmet Alici
-* Nils Kuchling
-* Tobias Hiekel
+* Jamie Nowitzki: Tester, Programmierer
+* Jakob Gerber: Dokumentenersteller, GUI-Entwickler
+* Nils Kuchling: Scrum-Master, Datenbank-"Experte"
+* Tobias Hiekel: Product Owner, Programmierer

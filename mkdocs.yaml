@@ -13,4 +13,5 @@ nav:
  - "Phase 10":
     - "Softwarelebenszyklus": softwarelebenszyklus.md
     - "Vorgehensmodelle": vorgehensmodelle.md
+    - "Zeitplan": zeitplan.md
 theme: material
